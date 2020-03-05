@@ -1,3 +1,4 @@
+"><script>alert(1);</script>
 ---
 title: "Edit the Doc Site"
 path: "/hackers/edit-the-doc-site.html"
